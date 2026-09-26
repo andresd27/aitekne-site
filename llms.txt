@@ -1,0 +1,13 @@
+# Aitekne — Andrés David Meza Hermosilla
+
+> Sitio oficial de la asesoría independiente de Andrés Meza en finanzas, tecnología e inteligencia artificial aplicada a negocios. Idioma principal: español. Ubicación: Cartagena, Colombia. Contacto: andres@aitekne.com.
+
+## Páginas principales
+- [Inicio](https://aitekne.com/): visión general de la asesoría y contacto.
+- [Asesoría financiera](https://aitekne.com/servicios/finanzas/): costos, márgenes, presupuestos y flujo de caja.
+- [Tecnología y automatización](https://aitekne.com/servicios/tecnologia/): procesos, reportes, software e integraciones.
+- [Inteligencia artificial aplicada](https://aitekne.com/servicios/inteligencia-artificial/): diagnóstico y pilotos de agentes con supervisión humana.
+- [Sobre Andrés](https://aitekne.com/sobre-andres/): trayectoria y enfoque profesional.
+
+## Alcance y verificación
+Andrés es contador público y desarrollador Full Stack. Aitekne es su asesoría personal e independiente. Los servicios y proyectos concretos se definen tras un diagnóstico. Para información vigente, consulta las páginas HTML enlazadas arriba; este archivo es un resumen complementario.
